@@ -1,0 +1,13 @@
+{
+  "name": "@backlight-dev/safety-concern-uxnko.blank-ln1oo6fb",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve L9YDgH535GLnvUQXOOU9 --open"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
